@@ -1,23 +1,3 @@
-<div align="center">
-  <img src="https://revobeautytech.com.br/assinaturas/logo-jfy.png">
-</div>
-
----
-
-<div align="center">
-  <h1>⚗️ JustForYou Dev Challenge</h1>
-</div>
-
-<div align="center">
-    Balanceamento de Brackets
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-v3.8-informational?style=flat&logo=python&logoColor=white&color=success" alt="Python v3.8" />
-</div>
-
 ## 🔰 Desafio de Balanceamento de Brackets
 
 Primeiramente, obrigado pelo seu interesse em trabalhar na JustForYou! Abaixo você encontrará todas as informações necessárias para iniciar o seu teste.

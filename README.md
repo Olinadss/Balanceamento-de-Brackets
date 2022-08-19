@@ -1,15 +1,3 @@
-## 🔰 Desafio de Balanceamento de Brackets
-
-Primeiramente, obrigado pelo seu interesse em trabalhar na JustForYou! Abaixo você encontrará todas as informações necessárias para iniciar o seu teste.
-
-## 💡 Avisos antes de começar
-
-* Crie um repositório **público** na sua conta do GitHub sem citar nada relacionado a JustForYou;
-* Baixe este projeto e utilize como base deste novo repositório criado por você;
-* Faça seus commits no seu repositório;
-* Após o término, envie o link de seu repositório para a Tech Recruiter que está conduzindo o seu processo seletivo 
-* Fique tranquilo(a), respire, assim como você, também já passamos por essa etapa. Boa sorte! :)
-
 ## ❓ Problema
 
 Um `bracket` é considerado qualquer um dos seguintes caracteres: 
